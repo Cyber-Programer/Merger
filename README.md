@@ -91,5 +91,13 @@ The merge.py script is a versatile tool designed to merge either text data or fi
     ```
     Enjoy exploring the capabilities of this tool!
 
+4. Save Output In file:
+  - use `-o` to saved output in any file
+      ```bash
+      python merge.py -f x.txt y.txt -o output.txt
+      ```
+      ```bash
+      merge.py -f x.txt y.txt -o output.txt
+      ```
 
      
